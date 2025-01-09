@@ -17,11 +17,11 @@
 ---
 
 ## 🌟Projects
-- **[abc]()
-- **
-- **
-- **
-- **
+- **[Diwali Sales Analysis](https://github.com/Suniljoshi-2003/Python-Projects/blob/main/Projects%20Data%20Analysis.ipynb)
+- **[Madhav Sales Analysis](https://github.com/Suniljoshi-2003/Power-Bi-projects/blob/main/madav%20sale%20dashboard.png)
+- **[Sales Store Data Report](https://github.com/Suniljoshi-2003/Excel/blob/main/Sales%20Store%20data%20Project_xlsx.xlsx)
+- **[Eletic Vehicales Population](https://github.com/Suniljoshi-2003/Tableau_Projects/blob/main/Electric_vehical_population.twb)
+- **[Retaill Salaes Analyis](https://github.com/Suniljoshi-2003/MySQL_Projects/blob/main/Retail%20Sales%20Analysis.sql)
 
 ---
 
