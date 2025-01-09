@@ -40,7 +40,7 @@
 
 ##📫 How to reach me
 -  [LinkedIn](https://www.linkedin.com/in/suniljoshi2003) | [Email](mailto:suniljoshi6360@gmail.com) | 
-    [Resume](file:///C:/Users/lenovo/SUNIL%20CHANDRA%20JOSHI%20%20(Resume).pdf)
+    [Resume](https://drive.google.com/file/d/1pPOZi6D_5w3enEarlnFuXTdQwzl36R23/view?usp=sharing)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy simplifying complex data into intuitive visualizations that tell compelling stories.
 
