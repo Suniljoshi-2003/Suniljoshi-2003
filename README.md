@@ -1,3 +1,25 @@
+
+
+<h1 align="center">Hi 👋, I'm Sunil_Chandra_Joshi</h1>
+<h3 align="center">Data Analyst</h3>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24297652.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suniljoshi-2003&label=Profile%20views&color=0e75b6&style=flat" alt="suniljoshi-2003" /> </p>
+
+<p align="left"> <a href="https://twitter.com/@sunil_joshi03" target="blank"><img src="https://img.shields.io/twitter/follow/sunil_joshi03?logo=twitter&style=for-the-badge" alt="@sunil_joshi03" /></a> </p>
+
+- 🌱 I’m currently learning **Python**,  **Pandas**,  **NumPy**,  **Matplotlib**,  **Seaborn**, 
+                                       **Power Bi**,  **Tableau**,  **MySQL**,  **Excel**
+
+- 📫 How to reach me **suniljoshi636@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cLx6vfzpftcSVaAmirlQVzun2e4s24eB/view?usp=sharing](https://drive.google.com/file/d/1cLx6vfzpftcSVaAmirlQVzun2e4s24eB/view?usp=sharing)
+
+
+
+
+
+
 # 👋 Hi, I’m @Sunil_Chandra_joshi
 
 ## About Me
