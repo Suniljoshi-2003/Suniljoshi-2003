@@ -20,7 +20,7 @@
 
 
 
-# 👋 Hi, I’m @Sunil_Chandra_joshi
+
 
 ## About Me
 - 👀 I’m interested in data analytics, visualization, and uncovering actionable insights from complex datasets.
