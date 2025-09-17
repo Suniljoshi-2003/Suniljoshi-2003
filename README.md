@@ -49,6 +49,7 @@
 
   ## 🏆 Certifactions
 - Data Analytics Professional Certificate
+- [Data Analyst] (https://drive.google.com/file/d/1hJHHBKWFP1pYt7IIts2qwCvvqdXxCaGN/view?usp=drive_link)
 
 ## GitHub Status
 ![Sunil's GitHub Status]()
