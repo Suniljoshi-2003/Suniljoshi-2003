@@ -30,7 +30,7 @@
 ---
 
 ## 🔧 Skills
-- 💻**Programming Languages:**Python ,SQL
+- 💻**Programming Languages**:Python ,SQL
 - 📊**Libraries/Tools:** Pnadas, NumPy, Matplotlib, Seaborn
 - 📈**Business Intelligence Tools:** Power BI, Tableau
 - 💾**Database:** MySQL
